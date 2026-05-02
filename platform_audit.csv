@@ -1,0 +1,6 @@
+platform,claimed,real_gross,real_net,gap_score,avg_hourly,pct_below_min_wage,incentive_dep,workers
+Rapido,50000,21837.4,16153.9,56.4,62.9,30.0,13.2,400
+Swiggy,40000,20993.4,15663.8,46.9,61.3,40.0,10.1,400
+Zomato,35000,18804.8,13662.0,45.9,52.4,50.0,9.3,400
+Porter,38000,24554.5,19410.5,34.7,75.2,10.0,5.9,400
+Urban Company,45000,35564.1,27785.1,22.0,108.6,0.0,3.2,400

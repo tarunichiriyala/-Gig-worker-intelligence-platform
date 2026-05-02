@@ -1,0 +1,38 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║         GIG WORKER INTELLIGENCE — KEY FINDINGS              ║
+╚══════════════════════════════════════════════════════════════╝
+
+🔍 FINDING 1 — THE GAP IS MASSIVE
+   Rapido has the worst gap at 56.4%
+   They claim ₹50,000/month but workers 
+   actually earn ₹16,154/month net.
+   That's ₹33,846 less than advertised.
+
+🔍 FINDING 2 — MOST WORKERS EARN BELOW MINIMUM WAGE  
+   27% of all gig workers earn below 
+   Hyderabad's minimum wage of ₹54/hour after costs.
+   The gig economy is largely a below-minimum-wage economy.
+
+🔍 FINDING 3 — PEAK HOURS ARE CRITICAL
+   Workers earn 0% more on peak days.
+   A worker who misses peak hours loses a third of 
+   their potential income.
+
+🔍 FINDING 4 — INCENTIVES CREATE FALSE EXPECTATIONS
+   Platforms use incentives to inflate headline numbers.
+   When incentives are removed, the real gap gets even wider.
+   Workers become dependent on bonuses that are 
+   designed to be hard to achieve consistently.
+
+🔍 FINDING 5 — 35% ARE JUST SURVIVING
+   Nearly half of all gig workers fall in the 
+   'Surviving' persona — earning below ₹500/day net.
+   Only 65% earn enough to be 
+   'Stable' or above.
+
+🏆 BEST PLATFORM: Urban Company 
+   Gap score 22.0% — most honest earnings claims
+
+⚠️  WORST PLATFORM: Rapido
+   Gap score 56.4% — most misleading claims

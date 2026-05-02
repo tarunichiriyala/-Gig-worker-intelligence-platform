@@ -84,7 +84,7 @@ Compared against Hyderabad minimum wage ₹54/hour
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/gig-worker-intelligence-platform.git
+git clone https://github.com/tarunichiriyala/gig-worker-intelligence-platform.git
 
 # Navigate to folder
 cd gig-worker-intelligence-platform
